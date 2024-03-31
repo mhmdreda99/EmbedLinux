@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/mhmd/Work/C++/CppLinux/Cmake_Template/build",
+  "command": "/usr/bin/g++  -I/media/mhmd/Work/C++/CppLinux/Cmake_Template/includes -I/media/mhmd/Work/C++/CppLinux/Cmake_Template/utils -g -o CMakeFiles/RUN.dir/src/main.cpp.o -c /media/mhmd/Work/C++/CppLinux/Cmake_Template/src/main.cpp",
+  "file": "/media/mhmd/Work/C++/CppLinux/Cmake_Template/src/main.cpp"
+}
+]

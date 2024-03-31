@@ -1,0 +1,3 @@
+/media/mhmd/Work/C++/CppLinux/Cmake_Template/build/CMakeFiles/RUN.dir
+/media/mhmd/Work/C++/CppLinux/Cmake_Template/build/CMakeFiles/edit_cache.dir
+/media/mhmd/Work/C++/CppLinux/Cmake_Template/build/CMakeFiles/rebuild_cache.dir
